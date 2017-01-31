@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SpreeBoard_Example' do
+  pod 'SpreeBoard', :path => '../'
+
+  target 'SpreeBoard_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
