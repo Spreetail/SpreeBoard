@@ -9,6 +9,15 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## How To Use
+
+TODO: write up a good READ ME instruction set
+
+Include SpreeBoard in your View Controller file(s) that need an onscreen keyboard, and implement the delegate methods.
+
+Instantiate the SpreeBoard and assign it to your input field's `inputView` property.
+
+
 ## Requirements
 
 ## Installation

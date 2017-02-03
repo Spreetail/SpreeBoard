@@ -1,0 +1,19 @@
+PODS:
+  - SpreeBoard (0.1.0):
+    - UIColor_Hex_Swift (~> 2.1)
+  - UIColor_Hex_Swift (2.3)
+
+DEPENDENCIES:
+  - SpreeBoard (from `../`)
+
+EXTERNAL SOURCES:
+  SpreeBoard:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SpreeBoard: ab303b0c2ae32667716cb6659f96c70a87f1c0c3
+  UIColor_Hex_Swift: 18bb48e9f1ed16c87f4ea7bf7e03853b43030812
+
+PODFILE CHECKSUM: bc1f2d58087937429e7762b3ed45b328a8578d82
+
+COCOAPODS: 1.2.0

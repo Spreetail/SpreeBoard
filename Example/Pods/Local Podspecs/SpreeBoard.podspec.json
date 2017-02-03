@@ -1,0 +1,28 @@
+{
+  "name": "SpreeBoard",
+  "version": "0.1.0",
+  "summary": "SpreeBoard is a plugin keyboard meant to be used in addition to an HID device when one is connected to the iOS device.",
+  "description": "Problem: iOS doesn't allow on screen keyboards when an HID(Human Interface Device) is connected to the device via bluetooth. An example is if you need a Bluetooth UPC/Barcode Scanner connected, but also want to allow keyboard input on certain fields or views.\n\nSolution: SpreeBoard acts as an alternate input source that isn't the default iOS keyboard by....",
+  "homepage": "https://github.com/Trevor Poppen/SpreeBoard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Trevor Poppen": "trevor.poppen@spreetail.com"
+  },
+  "source": {
+    "git": "https://github.com/Trevor Poppen/SpreeBoard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SpreeBoard/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "UIColor_Hex_Swift": [
+      "~> 2.1"
+    ]
+  }
+}
