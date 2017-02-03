@@ -17,13 +17,16 @@ Include SpreeBoard in your View Controller file(s) that need an onscreen keyboar
 
 Instantiate the SpreeBoard and assign it to your input field's `inputView` property.
 
+... more instructional steps to come ...
 
 ## Requirements
 
+...
+
 ## Installation
 
-COMING SOON: SpreeBoard is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+COMING SOON: SpreeBoard will be available through [CocoaPods](http://cocoapods.org). When it's availabe, you will be able to install
+it by simply adding the following line to your Podfile:
 
 ```ruby
 pod "SpreeBoard"
