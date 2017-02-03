@@ -25,12 +25,16 @@ Instantiate the SpreeBoard and assign it to your input field's `inputView` prope
 
 ## Installation
 
-COMING SOON: SpreeBoard will be available through [CocoaPods](http://cocoapods.org). When it's availabe, you will be able to install
+In Progress: SpreeBoard will be available through [CocoaPods](http://cocoapods.org). 
+
+When it's availabe, you will be able to install
 it by simply adding the following line to your Podfile:
 
 ```ruby
 pod "SpreeBoard"
 ```
+
+Release timeline will come later this Spring.
 
 ## Author
 
