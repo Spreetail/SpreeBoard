@@ -12,10 +12,10 @@ Pod::Spec.new do |s|
                         Solution: SpreeBoard acts as an alternate input source for input fields in your application. 
                        DESC
 
-  s.homepage         = 'https://github.com/Trevor Poppen/SpreeBoard'
+  s.homepage         = 'https://github.com/Spreetail/SpreeBoard'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Trevor Poppen' => 'trevor.poppen@spreetail.com' }
-  s.source           = { :git => 'https://github.com/Trevor Poppen/SpreeBoard.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Spreetail/SpreeBoard', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
